@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This project is about to provide assistance in bringing career growth for all individuals who seek for it.
+This project will use database to provide assistance in bringing career growth for all individuals who seek for it.
 
 
 ## Background
