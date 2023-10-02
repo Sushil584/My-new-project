@@ -10,12 +10,16 @@ This project will use database to provide assistance in bringing further career 
 
 ## Background
 
-It should solve an issue of hunting numerous websites and travelling to gather information about what is actually available in their path to grow. This issue is really common as myself an employee is struggling to find enough information based on current market conditions and demands.This topic is important as we know most of us wants to achieve new heights in thier carrer but what is next is always a question.This project will open new source of information based on their acheived skill sets and already gained education.
+It should solve an issue of hunting numerous websites and travelling to gather information about what is actually available in their path to grow. This issue is really common as myself an employee is struggling to find enough information based on current market conditions and demands.This topic is important as we know most of us wants to achieve new heights in thier carrer but what is next is always a question for lot of us.This project will open new source of information based on their acheived skill sets and already gained education.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account 
+In This process trained modle will evaluate individual current skills ,education and experience then propose needed additional requirements (like TAFE,degree,experience etc) 
+to achieve new opportunities available which would be very help for carrer development.
+This AI model should be able to successfully create and describe a plan for an individual further carrer growth. Also the Users who willing to work internationally should be able to retrieve their pre-requisites or requirements before entering into the overseas market.
+ 
+
 
 # write your solution here
 
