@@ -33,7 +33,8 @@ This project may not fulfil expected financial growth for an individual through 
 
 
 Project could grow when industries feed their employee skill requirements data to this AI model which would help reduce future skill shortages as personal already ready as required.
-Job seeking database sources would be a good feed as well.This project may turn into a social network kind as well where every users have thier own profile ready to communicate with others while following thier path growth.
+Job seeking database sources would be a good feed as well. Include information from Universities or institutions to simplify this process by modifying their courses accordingly.
+This project may turn into a social network kind as well where every users have thier own profile ready to communicate with others while following thier path growth.
 AI model should monitor every communication in case false or highly unlikely information floating around. 
 
 
@@ -41,4 +42,4 @@ AI model should monitor every communication in case false or highly unlikely inf
 
 * My own workplace.
 * Job interviews.
-
+* Job seeking sites.
