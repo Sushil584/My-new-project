@@ -1,2 +1,2 @@
-# My-new-project
+# Career growth
 Building AI course project.
