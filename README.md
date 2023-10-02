@@ -33,13 +33,12 @@ This project may not fulfil expected financial growth for an individual through 
 
 
 Project could grow when industries feed their employee skill requirements data to this AI model which would help reduce future skill shortages as personal already ready as required.
-Job seeking database sources would be a good feed as well.
+Job seeking database sources would be a good feed as well.This project may turn into a social network kind as well where every users have thier own profile ready to communicate with others while following thier path growth.
+AI model should monitor every communication in case false or highly unlikely information floating around. 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licens
+* My own workplace.
+* Job interviews.
 
