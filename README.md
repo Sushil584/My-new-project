@@ -31,7 +31,9 @@ This project may not fulfil expected financial growth for an individual through 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+
+Project could grow when industries feed their employee skill requirements data to this AI model which would help reduce future skill shortages.
+kind of skills, what kind of assistance would you  need to move on? 
 
 
 ## Acknowledgments
