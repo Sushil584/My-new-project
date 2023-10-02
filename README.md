@@ -17,16 +17,16 @@ It should solve an issue of hunting numerous websites and travelling to gather i
 
 This AI modle will evaluate individual current skills ,education and experience then propose needed additional requirements (like TAFE,degree,experience etc) 
 to achieve new opportunities available which would be very help for carrer development.
-This AI model should be able to successfully create and describe a plan for an individual further carrer growth. Also the Users who willing to work internationally should be able to retrieve their pre-requisites or requirements before entering into the overseas 
+This AI model should be able to successfully create and describe a plan for an individual who in sesrch for further carrer growth. Also the Users who willing to work internationally should be able to retrieve their pre-requisites or requirements before entering into the overseas market.
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+Main source of the data is from within the workplace discussions where most of us are keen to upgrade ourselves which may bring Job satisfaction later. AI methods should be able to throw some light on an individual shortcomings in regards to carrer.
 
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project may not fulfil expected financial growth for an individual through proposed career growth because ultimately it depends on an employer or industry where they always seeks more worth it for the money they pay. It doesn't guarantee a growth where individual capabilities may fall short to achieve. Therefore before all every user have to calculate those risks involved like time and money against proposed AI generated plan to get those additional requirements.
 
 
 ## What next?
