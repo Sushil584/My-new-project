@@ -32,8 +32,8 @@ This project may not fulfil expected financial growth for an individual through 
 ## What next?
 
 
-Project could grow when industries feed their employee skill requirements data to this AI model which would help reduce future skill shortages.
-kind of skills, what kind of assistance would you  need to move on? 
+Project could grow when industries feed their employee skill requirements data to this AI model which would help reduce future skill shortages as personal already ready as required.
+Job seeking database sources would be a good feed as well.
 
 
 ## Acknowledgments
