@@ -15,13 +15,9 @@ It should solve an issue of hunting numerous websites and travelling to gather i
 
 ## How is it used?
 
-In This process trained modle will evaluate individual current skills ,education and experience then propose needed additional requirements (like TAFE,degree,experience etc) 
+This AI modle will evaluate individual current skills ,education and experience then propose needed additional requirements (like TAFE,degree,experience etc) 
 to achieve new opportunities available which would be very help for carrer development.
-This AI model should be able to successfully create and describe a plan for an individual further carrer growth. Also the Users who willing to work internationally should be able to retrieve their pre-requisites or requirements before entering into the overseas market.
- 
-
-
-# write your solution here
+This AI model should be able to successfully create and describe a plan for an individual further carrer growth. Also the Users who willing to work internationally should be able to retrieve their pre-requisites or requirements before entering into the overseas 
 
 
 ## Data sources and AI methods
