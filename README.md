@@ -15,13 +15,14 @@ It should solve an issue of hunting numerous websites and travelling to gather i
 
 ## How is it used?
 
-This AI modle will evaluate individual current skills ,education and experience then propose needed additional requirements (like TAFE,degree,experience etc) 
+This AI model will evaluate individual current skills ,education and experience then propose needed additional requirements (like TAFE,degree,experience etc) 
 to achieve new opportunities available which would be very help for carrer development.
 This AI model should be able to successfully create and describe a plan for an individual who in sesrch for further carrer growth. Also the Users who willing to work internationally should be able to retrieve their pre-requisites or requirements before entering into the overseas market.
 
 
 ## Data sources and AI methods
-Main source of the data is from within the workplace discussions where most of us are keen to upgrade ourselves which may bring Job satisfaction later. AI methods should be able to throw some light on an individual shortcomings in regards to carrer.
+Main source of the data is from within the workplace discussions where most of us are keen to upgrade ourselves which may bring Job satisfaction later. Job seeking sites are just an advertisement from employers where they seek perfect employee for themselves.
+AI methods should be able to throw some light on an individual shortcomings in regards to carrer.
 
 
 ## Challenges
